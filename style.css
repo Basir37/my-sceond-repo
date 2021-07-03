@@ -41,3 +41,8 @@ h1{
     width: 400px;
     padding: 10px 40px;
 }
+strong{
+    padding:10px 40px;
+    color:rgba(131, 17, 36, 0.952);
+    font-size: 20px;
+}
