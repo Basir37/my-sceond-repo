@@ -1,5 +1,11 @@
+body{
+    background-color: rgba(141, 194, 194, 0.658);
+}
 p{
-    color: rgb(14, 158, 122);
+    color: rgb(7, 17, 15);
+    text-align: justify;
+    font-size: 20px;
+    padding: 10px 40px;
 
 }
 h1{
@@ -7,18 +13,31 @@ h1{
     text-align: center;
     font-size:40px;
     background-color:bisque;
-    
+   
+    padding: 10px;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px 5px rgb(34, 26, 26);
+    border-style: ridge;
+    border-style: solid;
+    border-color: rgba(13, 49, 41, 0.548);
+    border-radius: 10px;
 
 }
 .img{
     
     height: 200px;
     width: 200px;
-    padding: 20px;
+    margin: 5px 40px;
+    border: 1px solid #ccc;
+    border: 5px solid rgba(59, 148, 184, 0.274);
+    border-radius: 10px;
+    padding: 40px;
+   
    
     
 }
 .ba{
     height: 500px;
     width: 400px;
+    padding: 10px 40px;
 }
